@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalidate",
+        "uuid": 4018156,
+        "checksum": "mbg4t"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
